@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Wesh la team
+          Wesh la team, we just push feature branch
         </p>
         <a
           className="App-link"
